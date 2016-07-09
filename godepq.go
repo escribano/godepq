@@ -16,7 +16,7 @@ import (
 	"os"
 	"regexp"
 
-	. "github.com/google/godepq/pkg"
+	. "github.com/escribano/godepq/pkg"
 )
 
 var (
